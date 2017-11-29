@@ -26,7 +26,7 @@ public class TestCalculator {
     @Test
     public void testSummeZweiPositive() {    
         System.out.println("Summe Zwei Positive");
-        Assert.assertTrue(12 == calc.addition(4, 8));
+        Assert.assertTrue(10 == calc.addition(4, 8));
     }
     
     @Test
