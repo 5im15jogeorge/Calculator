@@ -5,6 +5,6 @@ deploy:
   provider: releases
   api_key:
     secure: nQw5120/ycoj5mUPpXCC2QCFueMP/NaU6KRGSXWS34HJkhElaCGr7pawySEab3RO4RWgZ9SU+KFoPCzxKe3UH/f3mCsZ4V/EErye4YRmmZ4jpjIwboaOz4EvF1cVI3zMEiYGg/alORXUqmKwsxPsylRxjxOwRb56P+brl2IWXsbvKgP9jcTt/kfJ5bsO2ncLMM4XAKJHCU5FxC7rU40Fi5Qu/PHCxdqlAPKtW5mCZyiUhflrtmcbv/uyYHAKe4vfmQxXe4LMA0hH8v109mqyBwyvL/+zsITPQtkXoGhAA/LhtiMgti/aK8l5YYIvMbyeiArv7zktmOLah3u10mgQDX8HyI9bkYNHmxNJvS9Zfm5Xss2Tsxi48MYnnhv90kcVYKgAQM/aCaVYYSUGmg84hovWSVBjylr1KYgQyqgLNHvxok/yph+a8SI58xFg6XTUeUsPe4edDgASrgBdpHcJlFIwnKduqjfiHRYZY2j+WYcri7X4FemSzPBAZTDa64/DZTdR0vEb7di8yyYbQ+K7pYLts90PICDlLcacETsLeT/QWbSuDR9btIOC7G23rgfP8uvniExPdO9dqYSTGUehWpUDSp8mnV56+3DrcB0nt5Sm+/VQNF5fTZ9fA8likOpKz/eAxJLVIP1V1yckPnxSmzjAX1/Nno9rNX1ELkqnL88=
-  file: "\\Calculator\target\Calculator-1.0-SNAPSHOT.jar"
+  file: "\Calculator\target\Calculator-1.0-SNAPSHOT.jar"
   on:
     repo: 5im15jogeorge/Calculator
